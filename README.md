@@ -23,10 +23,14 @@ The goal of the project is to analyze metrics that can affect the manufacturing 
 ## Study Design: MechaCar vs. Competition
 Another statistical study that can be performed to determine MechaCar's standing against its competition is a linear regression on city and highway fuel efficiency. Gasoline is expensive nowadays, and it is an important feature that many consumers look at when purchasing a new car. The metrics that can be included in this analysis are:
 
-City and highway fuel efficiency: dependent variable
-Horse power: independent variable
-Vehicle weight: independent variable
-AWD capabilities: independent variable
-MPG: independent variable In addition to the MPG, AWD, and vehicle weight data that we already have, we would have to collect fuel efficiency and horse power data for the sample data set at hand.
+1)City and highway fuel efficiency: dependent variable
+
+2)Horse power: independent variable
+
+3)Vehicle weight: independent variable
+
+4)AWD capabilities: independent variable
+
+5)MPG: independent variable In addition to the MPG, AWD, and vehicle weight data that we already have, we would have to collect fuel efficiency and horse power data for the sample data set at hand.
 
 
